@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/keitaroutakahashi/npm-test/issues"
   },
-  "homepage": "https://github.com/keitaroutakahashi/npm-test#readme"
+  "homepage": "https://github.com/keitaroutakahashi/npm-test#readme",
+  "dependencies": {
+    "@k-taro/npm-test": "^1.0.0"
+  }
 }
