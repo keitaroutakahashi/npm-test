@@ -1,6 +1,6 @@
 {
   "name": "@k-taro/npm-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm test",
   "main": "index.js",
   "scripts": {
