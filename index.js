@@ -3,6 +3,6 @@ export class Test {
     this.name = name
   }
   action() {
-    return `Hello! v3 ${this.name}`
+    return `Hello! v4 ${this.name}`
   }
 }
